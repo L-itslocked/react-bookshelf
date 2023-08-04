@@ -7,6 +7,8 @@ function App() {
     <div className="App">
       <Navbar />
       <Shelf />
+      <Shelf />
+      <Shelf />
       {/* bookshelf-1 */}
       {/* shelf */}
       {/* bkshelf-2

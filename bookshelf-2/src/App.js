@@ -1,13 +1,17 @@
 import "./App.css";
 import Navbar from "./Navbar.js";
 import Shelf from "./Shelf.js";
+import Bkshelf1 from "./Bkshelf1.js";
 
 function App() {
   return (
     <div className="App">
       <Navbar />
+      <Bkshelf1 />
       <Shelf />
+      <Bkshelf1 />
       <Shelf />
+      <Bkshelf1 />
       <Shelf />
       {/* bookshelf-1 */}
       {/* shelf */}

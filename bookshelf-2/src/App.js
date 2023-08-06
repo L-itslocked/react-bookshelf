@@ -15,10 +15,7 @@ function App() {
       <Shelf />
       <Bkshelf3 />
       <Shelf />
-      {/* bookshelf-1 */}
-      {/* shelf */}
-      {/* bkshelf-2
-      shelf */}
+
       {/* <header className="App-header">
         
       </header> */}

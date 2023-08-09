@@ -4,6 +4,7 @@ import Shelf from "./Shelf.js";
 import Bkshelf1 from "./Bkshelf1.js";
 import Bkshelf2 from "./Bkshelf2.js";
 import Bkshelf3 from "./Bkshelf3.js";
+import Footer from "./Footer.js";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       {/* <header className="App-header">
         
       </header> */}
+      <Footer />
     </div>
   );
 }

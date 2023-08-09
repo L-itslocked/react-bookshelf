@@ -17,3 +17,20 @@ h1 {
   text-align: left;
   font-size: 20px;
 }
+
+footer {
+  background-color: lightgrey;
+  padding: 5dvw;
+  width: 100%;
+  margin: 50px 0;
+  font-size: 11px;
+  text-align: right;
+  color: black;
+}
+footer i {
+  padding: 5px 3px;
+  font-size: 20px;
+}
+footer a {
+  color: hotpink !important;
+}

@@ -1,12 +1,9 @@
 import React from "react";
+import "./index.css";
 
 export default function Footer() {
   return (
     <footer>
-      <a href="https://github.com/L-itslocked/react-bookshelf">
-        Open-source code
-      </a>{" "}
-      by Laura Doyon
       <div>
         <a href="https://www.linkedin.com/in/doyonlaura">
           <i class="fa-brands fa-linkedin coder-social"></i>
@@ -18,6 +15,10 @@ export default function Footer() {
           <i class="fa-brands fa-codepen coder-social"></i>
         </a>
       </div>
+      <a href="https://github.com/L-itslocked/react-bookshelf">
+        Open-source code
+      </a>{" "}
+      by Laura Doyon
     </footer>
   );
 }
